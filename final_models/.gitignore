@@ -1,0 +1,7 @@
+./data
+./embeddings
+./submissions
+./best_model.hdf5
+./keras_*.csv
+./subm.csv
+./submission_*.csv
